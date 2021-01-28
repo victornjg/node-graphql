@@ -1,0 +1,14 @@
+{
+  "name": "nodegraphql",
+  "version": "0.0.1",
+  "description": "Just a sample project to practice GraphQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "victornjg",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "graphql": "^15.3.0"
+  }
+}
